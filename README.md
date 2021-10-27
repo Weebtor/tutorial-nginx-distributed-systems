@@ -59,7 +59,7 @@ http://server_ip
 Esta se puede obtener directamente en consola ingresando el siguiente comando :
 
 ``` bat
-curl -4 icanhazip.com
+ifconfig
 ```
 
 Al ingresar a la dirección mencionada, el resultado debería ser similar al siguiente:
